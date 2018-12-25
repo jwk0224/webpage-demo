@@ -1,0 +1,15 @@
+{
+  "name": "business-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wangkyo Jung",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.7.0"
+  }
+}
