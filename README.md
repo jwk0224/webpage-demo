@@ -1,4 +1,4 @@
-# node-business-website
+# business-website
 
 Simple business website running on Node.js server
 
