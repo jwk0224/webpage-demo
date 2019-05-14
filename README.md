@@ -5,8 +5,7 @@ Simple business website running on Node.js server
 ## Features
 
 - Template UI using [INTERACT FREE CSS TEMPLATE](https://www.free-css.com/free-css-templates/page234/interact)
-- Email sending from website using 
-*nodemailer*
+- Sending email from website using *nodemailer*
 
 ## Installation
 
