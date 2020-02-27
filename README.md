@@ -1,6 +1,6 @@
-# business-website
+# website-template
 
-Simple business website running on Node.js server
+A simple website running on Node.js server
 
 ## Features
 
