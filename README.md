@@ -1,6 +1,6 @@
-# website-template
+# marketing-template
 
-A simple website running on Node.js server
+A simple marketing website running on Node.js server
 
 ## Features
 
