@@ -1,6 +1,6 @@
-# website-demo
+# webpage-demo
 
-A simple marketing website running on Node.js server
+A simple marketing webpage running on Node.js server
 
 ## Features
 
