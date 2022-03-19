@@ -1,4 +1,4 @@
-# marketing-template
+# website-demo
 
 A simple marketing website running on Node.js server
 
