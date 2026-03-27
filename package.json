@@ -10,6 +10,6 @@
   "author": "Wangkyo Jung",
   "license": "ISC",
   "dependencies": {
-    "nodemailer": "^7.0.11"
+    "nodemailer": "^8.0.4"
   }
 }
